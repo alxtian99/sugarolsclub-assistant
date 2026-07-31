@@ -1,1 +1,1 @@
-# Sugarols Club Assistant
+print("Welcome to Sugarols Club Assistant!")
