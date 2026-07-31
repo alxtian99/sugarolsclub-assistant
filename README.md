@@ -1,0 +1,1 @@
+# sugarolsclub-assistant
